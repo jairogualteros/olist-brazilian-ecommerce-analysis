@@ -1,0 +1,23 @@
+# Entorno virtual
+.venv/
+venv/
+env/
+
+# Checkpoints de Jupyter
+.ipynb_checkpoints/
+
+# Archivos de Python compilados
+__pycache__/
+*.pyc
+
+# Archivos de datos grandes (NO subir a GitHub)
+*.csv
+*.xlsx
+*.parquet
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Variables de entorno
+.env
